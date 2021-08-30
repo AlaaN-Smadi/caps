@@ -1,0 +1,24 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "events.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node caps.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlaaN-Smadi/caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlaaN-Smadi/caps/issues"
+  },
+  "homepage": "https://github.com/AlaaN-Smadi/caps#readme",
+  "dependencies": {
+    "jest": "^27.1.0"
+  }
+}
